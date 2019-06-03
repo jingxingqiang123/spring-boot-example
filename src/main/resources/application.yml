@@ -1,6 +1,6 @@
 #配置server的端口
 server:
-  port: 8090
+  port: 8080
 #配置mapper文件的位置
 mybatis:
   mapper-locations: classpath:mapping/*.xml
